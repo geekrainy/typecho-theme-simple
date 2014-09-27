@@ -18,7 +18,7 @@
 <?php $this->header('generator=&template=&pingback=&xmlrpc=&wlw='); ?>
 </head>
 <body>
-<!--[if lt IE 9]>
+<!--[if lt IE 8]>
     <div class="browsehappy"><?php _e('当前网页 <strong>不支持</strong> 你正在使用的浏览器.还在使用<strong>老迈的IE</strong>吗？, 请 <a href="http://browsehappy.com/">升级你的浏览器</a>'); ?>.</div>
 <![endif]-->
 <div id="wrapper">
