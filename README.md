@@ -1,7 +1,7 @@
 RainyWhite
 ==========
 
-RainyWhite1.2 for Typecho 
+RainyWhite1.3 for Typecho 
 
 使用说明：
 ---------
