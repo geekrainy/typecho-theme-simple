@@ -103,26 +103,6 @@ pre code {
 .post-content img:hover {
 	border-color:#C10D0C;
 }
-.music {
-	background:#F5F8FA;
-	border:#ddd solid 1px;
-	border-bottom-color:#F5F8FA;
-	padding:5px;
-}
-.player {
-	height:34px;
-	padding:2px;
-	position:relative;
-	background:#F5F8FA;
-	border:#ddd solid 1px;
-}
-.player::after {
-	content:"PLAY OUR LIFE";
-	position:absolute;
-	right:5px;
-	top:7px;
-	font:normal 20px Electrolize,Verdana;
-}
 /* 内容区结束 */
 
 /* 结构 */
