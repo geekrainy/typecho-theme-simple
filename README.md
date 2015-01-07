@@ -11,7 +11,7 @@ RainyWhite1.3 for Typecho
         - [Avatars](https://github.com/jzwalk/Avatars)(jzwalk)
         - [Links](http://www.imhan.com/typecho/)(hanny)
         - [Smilies](https://github.com/jzwalk/Smilies)(jzwalk)  
-    4. 对主题的建议、问题、BUG，请戳Issues。
+    3. 对主题的建议、问题、BUG，请戳Issues。
 
 ## 2. License: ##
 
