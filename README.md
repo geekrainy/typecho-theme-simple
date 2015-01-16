@@ -8,9 +8,9 @@ RainyWhite1.3 for Typecho
 
     1. 主题适用于Typecho0.9、1.0版本。
     2. 主题需要的插件支持（如不使用主题自带关于页面模板可忽略此项）：
-        - [Avatars](https://github.com/jzwalk/Avatars)(jzwalk)
-        - [Links](http://www.imhan.com/typecho/)(hanny)
-        - [Smilies](https://github.com/jzwalk/Smilies)(jzwalk)  
+        - [Avatars](https://github.com/jzwalk/Avatars)  
+        - [Links](http://www.imhan.com/typecho/)  
+        - [Smilies](https://github.com/jzwalk/Smilies)  
     3. 对主题的建议、问题、BUG，请戳Issues。
 
 ## 2. License: ##
