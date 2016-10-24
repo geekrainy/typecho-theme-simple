@@ -1,6 +1,6 @@
 <?php
 /**
- * @package RainyWhite
+ * @package Simple
  * @author Rainy
  * @version 1.3
  * @link http://rainylog.com

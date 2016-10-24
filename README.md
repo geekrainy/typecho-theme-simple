@@ -1,7 +1,7 @@
-RainyWhite
+Simple
 ==========
 
-RainyWhite1.3 for Typecho  
+Simple 1.3 for Typecho  
 简单、快速、稳定的单栏主题，适合文字类博客。
 
 ## 1. 使用说明： ##
